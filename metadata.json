@@ -1,0 +1,7 @@
+{
+  "name": "তপু মোবাইল ভারর্সন",
+  "description": "",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
